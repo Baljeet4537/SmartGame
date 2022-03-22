@@ -1,2 +1,3 @@
 # SmartGame
-Smart Game is a software company which work on developing the game
+Smart Game is a software company which work on developing the game,
+Thank you !
